@@ -1,0 +1,1132 @@
+{
+  "project": "The Whiteboard Wallet \u2014 Pay Stub, Explained",
+  "sourceAudio": "Generated Audio October 20, 2026 - 10_29PM.wav",
+  "audioDurationSeconds": 368.96,
+  "fpsReference": 30,
+  "captionTimingType": "phrase-level SRT alignment",
+  "wordLevelTimestampsAvailable": false,
+  "notes": [
+    "Caption cues are aligned phrase-level segments exported from Descript.",
+    "Do not treat individual word timings as exact; a forced-alignment pass is needed for exact word-level animation.",
+    "The audio contains a repeated FICA passage around 219.970\u2013243.285 seconds; it is retained here to match the recording.",
+    "The ending speech cue ends at 368.676 seconds; the source audio ends at 368.960 seconds."
+  ],
+  "captions": [
+    {
+      "id": 1,
+      "startSeconds": 0.28,
+      "endSeconds": 7.045,
+      "startFrame30fps": 8,
+      "endFrame30fps": 211,
+      "text": "You work hard for two weeks, open your pay stub, and see $3,000 at the top."
+    },
+    {
+      "id": 2,
+      "startSeconds": 7.59,
+      "endSeconds": 12.846,
+      "startFrame30fps": 228,
+      "endFrame30fps": 385,
+      "text": "But when you check your bank account, only $2,200 actually arrived."
+    },
+    {
+      "id": 3,
+      "startSeconds": 13.543,
+      "endSeconds": 16.474,
+      "startFrame30fps": 406,
+      "endFrame30fps": 494,
+      "text": "Where did that $800 gap disappear to?"
+    },
+    {
+      "id": 4,
+      "startSeconds": 17.402,
+      "endSeconds": 21.514,
+      "startFrame30fps": 522,
+      "endFrame30fps": 645,
+      "text": "To most people, that $800 feels like an unfair penalty."
+    },
+    {
+      "id": 5,
+      "startSeconds": 22.046,
+      "endSeconds": 26.541,
+      "startFrame30fps": 661,
+      "endFrame30fps": 796,
+      "text": "When payroll deductions feel like a black box, it feels like money is simply being"
+    },
+    {
+      "id": 6,
+      "startSeconds": 26.605,
+      "endSeconds": 28.678,
+      "startFrame30fps": 798,
+      "endFrame30fps": 860,
+      "text": "taken from you without your consent."
+    },
+    {
+      "id": 7,
+      "startSeconds": 29.467,
+      "endSeconds": 33.543,
+      "startFrame30fps": 884,
+      "endFrame30fps": 1006,
+      "text": "Today, we are putting a real American pay stub under the microscope."
+    },
+    {
+      "id": 8,
+      "startSeconds": 34.005,
+      "endSeconds": 39.563,
+      "startFrame30fps": 1020,
+      "endFrame30fps": 1187,
+      "text": "We are going to audit all $800 line by line, separating mandatory"
+    },
+    {
+      "id": 9,
+      "startSeconds": 39.565,
+      "endSeconds": 43.732,
+      "startFrame30fps": 1187,
+      "endFrame30fps": 1312,
+      "text": "government taxes from money that is actually building your personal wealth."
+    },
+    {
+      "id": 10,
+      "startSeconds": 44.772,
+      "endSeconds": 49.016,
+      "startFrame30fps": 1343,
+      "endFrame30fps": 1470,
+      "text": "Here is the first critical truth: two people earning the exact"
+    },
+    {
+      "id": 11,
+      "startSeconds": 49.017,
+      "endSeconds": 53.805,
+      "startFrame30fps": 1471,
+      "endFrame30fps": 1614,
+      "text": "same $3,000 salary can take home completely different amounts of money."
+    },
+    {
+      "id": 12,
+      "startSeconds": 54.357,
+      "endSeconds": 56.87,
+      "startFrame30fps": 1631,
+      "endFrame30fps": 1706,
+      "text": "Your pay stub is not a cookie-cutter template."
+    },
+    {
+      "id": 13,
+      "startSeconds": 57.143,
+      "endSeconds": 58.865,
+      "startFrame30fps": 1714,
+      "endFrame30fps": 1766,
+      "text": "It is a financial fingerprint."
+    },
+    {
+      "id": 14,
+      "startSeconds": 59.741,
+      "endSeconds": 63.82,
+      "startFrame30fps": 1792,
+      "endFrame30fps": 1915,
+      "text": "Take three workers at the same company, each earning $3,000 gross."
+    },
+    {
+      "id": 15,
+      "startSeconds": 64.331,
+      "endSeconds": 66.649,
+      "startFrame30fps": 1930,
+      "endFrame30fps": 1999,
+      "text": "Worker A takes home twenty-four hundred."
+    },
+    {
+      "id": 16,
+      "startSeconds": 67.061,
+      "endSeconds": 69.232,
+      "startFrame30fps": 2012,
+      "endFrame30fps": 2077,
+      "text": "Worker B takes home twenty-two hundred."
+    },
+    {
+      "id": 17,
+      "startSeconds": 69.629,
+      "endSeconds": 72.04,
+      "startFrame30fps": 2089,
+      "endFrame30fps": 2161,
+      "text": "Worker C takes home nineteen hundred."
+    },
+    {
+      "id": 18,
+      "startSeconds": 72.517,
+      "endSeconds": 72.916,
+      "startFrame30fps": 2176,
+      "endFrame30fps": 2187,
+      "text": "Why?"
+    },
+    {
+      "id": 19,
+      "startSeconds": 73.392,
+      "endSeconds": 76.669,
+      "startFrame30fps": 2202,
+      "endFrame30fps": 2300,
+      "text": "Because withholding elections, state taxes, and benefit"
+    },
+    {
+      "id": 20,
+      "startSeconds": 76.669,
+      "endSeconds": 78.586,
+      "startFrame30fps": 2300,
+      "endFrame30fps": 2358,
+      "text": "choices change everything."
+    },
+    {
+      "id": 21,
+      "startSeconds": 79.708,
+      "endSeconds": 82.357,
+      "startFrame30fps": 2391,
+      "endFrame30fps": 2471,
+      "text": "Your paycheck is not a flat subscription fee."
+    },
+    {
+      "id": 22,
+      "startSeconds": 82.638,
+      "endSeconds": 86.511,
+      "startFrame30fps": 2479,
+      "endFrame30fps": 2595,
+      "text": "It is dynamic, governed by the federal government, state tax authorities,"
+    },
+    {
+      "id": 23,
+      "startSeconds": 86.698,
+      "endSeconds": 90.621,
+      "startFrame30fps": 2601,
+      "endFrame30fps": 2719,
+      "text": "and most importantly, the specific paperwork you filed with your employer."
+    },
+    {
+      "id": 24,
+      "startSeconds": 91.694,
+      "endSeconds": 94.658,
+      "startFrame30fps": 2751,
+      "endFrame30fps": 2840,
+      "text": "Every standard pay stub begins with gross pay."
+    },
+    {
+      "id": 25,
+      "startSeconds": 95.063,
+      "endSeconds": 96.329,
+      "startFrame30fps": 2852,
+      "endFrame30fps": 2890,
+      "text": "This sits at the very top."
+    },
+    {
+      "id": 26,
+      "startSeconds": 96.703,
+      "endSeconds": 100.844,
+      "startFrame30fps": 2901,
+      "endFrame30fps": 3025,
+      "text": "It represents your total agreed-upon earnings before taxes, retirement"
+    },
+    {
+      "id": 27,
+      "startSeconds": 100.845,
+      "endSeconds": 103.687,
+      "startFrame30fps": 3025,
+      "endFrame30fps": 3111,
+      "text": "contributions, or medical insurance are ever touched."
+    },
+    {
+      "id": 28,
+      "startSeconds": 104.614,
+      "endSeconds": 108.753,
+      "startFrame30fps": 3138,
+      "endFrame30fps": 3263,
+      "text": "Below gross pay lies a catch-all category called deductions."
+    },
+    {
+      "id": 29,
+      "startSeconds": 109.283,
+      "endSeconds": 112.711,
+      "startFrame30fps": 3278,
+      "endFrame30fps": 3381,
+      "text": "This single word creates massive psychological confusion because it"
+    },
+    {
+      "id": 30,
+      "startSeconds": 112.711,
+      "endSeconds": 117.501,
+      "startFrame30fps": 3381,
+      "endFrame30fps": 3525,
+      "text": "lumps together money lost to taxes with money saved into your own future wealth."
+    },
+    {
+      "id": 31,
+      "startSeconds": 118.035,
+      "endSeconds": 123.075,
+      "startFrame30fps": 3541,
+      "endFrame30fps": 3692,
+      "text": "To read your pay stub like a professional auditor, you must divide the eight hundred"
+    },
+    {
+      "id": 32,
+      "startSeconds": 123.08,
+      "endSeconds": 128.626,
+      "startFrame30fps": 3692,
+      "endFrame30fps": 3859,
+      "text": "dollar gap into two distinct buckets: statutory taxes you owe the government"
+    },
+    {
+      "id": 33,
+      "startSeconds": 128.916,
+      "endSeconds": 131.915,
+      "startFrame30fps": 3867,
+      "endFrame30fps": 3957,
+      "text": "and pre-tax benefits that belong to you."
+    },
+    {
+      "id": 34,
+      "startSeconds": 132.956,
+      "endSeconds": 138.526,
+      "startFrame30fps": 3989,
+      "endFrame30fps": 4156,
+      "text": "Line item number one, federal income tax withholding, subtracting two hundred"
+    },
+    {
+      "id": 35,
+      "startSeconds": 138.526,
+      "endSeconds": 140.212,
+      "startFrame30fps": 4156,
+      "endFrame30fps": 4206,
+      "text": "and eighty dollars and fifty cents."
+    },
+    {
+      "id": 36,
+      "startSeconds": 140.714,
+      "endSeconds": 143.053,
+      "startFrame30fps": 4221,
+      "endFrame30fps": 4292,
+      "text": "This is not your final tax bill."
+    },
+    {
+      "id": 37,
+      "startSeconds": 143.345,
+      "endSeconds": 147.947,
+      "startFrame30fps": 4300,
+      "endFrame30fps": 4438,
+      "text": "It is an estimated prepayment sent directly to the United States Treasury."
+    },
+    {
+      "id": 38,
+      "startSeconds": 148.938,
+      "endSeconds": 151.742,
+      "startFrame30fps": 4468,
+      "endFrame30fps": 4552,
+      "text": "Your employer does not know your final tax rate."
+    },
+    {
+      "id": 39,
+      "startSeconds": 152.095,
+      "endSeconds": 155.555,
+      "startFrame30fps": 4563,
+      "endFrame30fps": 4667,
+      "text": "They do not know about your spouse's income, your stock dividends,"
+    },
+    {
+      "id": 40,
+      "startSeconds": 155.595,
+      "endSeconds": 157.374,
+      "startFrame30fps": 4668,
+      "endFrame30fps": 4721,
+      "text": "or your freelance side hustle."
+    },
+    {
+      "id": 41,
+      "startSeconds": 157.779,
+      "endSeconds": 161.346,
+      "startFrame30fps": 4733,
+      "endFrame30fps": 4840,
+      "text": "They are only calculating an estimate based on your salary."
+    },
+    {
+      "id": 42,
+      "startSeconds": 162.358,
+      "endSeconds": 166.74,
+      "startFrame30fps": 4871,
+      "endFrame30fps": 5002,
+      "text": "That estimate is driven entirely by IRS Form W-4."
+    },
+    {
+      "id": 43,
+      "startSeconds": 167.132,
+      "endSeconds": 171.048,
+      "startFrame30fps": 5014,
+      "endFrame30fps": 5131,
+      "text": "The elections you made on that form tell payroll software exactly how"
+    },
+    {
+      "id": 44,
+      "startSeconds": 171.051,
+      "endSeconds": 175.319,
+      "startFrame30fps": 5132,
+      "endFrame30fps": 5260,
+      "text": "much estimated tax to peel off your paycheck every single pay cycle."
+    },
+    {
+      "id": 45,
+      "startSeconds": 176.298,
+      "endSeconds": 179.062,
+      "startFrame30fps": 5289,
+      "endFrame30fps": 5372,
+      "text": "Think of federal withholding as an escrow account."
+    },
+    {
+      "id": 46,
+      "startSeconds": 179.476,
+      "endSeconds": 181.558,
+      "startFrame30fps": 5384,
+      "endFrame30fps": 5447,
+      "text": "Every payday, you deposit money into it."
+    },
+    {
+      "id": 47,
+      "startSeconds": 181.932,
+      "endSeconds": 185.634,
+      "startFrame30fps": 5458,
+      "endFrame30fps": 5569,
+      "text": "When April comes around, you compare what you prepaid against what you"
+    },
+    {
+      "id": 48,
+      "startSeconds": 185.676,
+      "endSeconds": 187.713,
+      "startFrame30fps": 5570,
+      "endFrame30fps": 5631,
+      "text": "actually owe on your tax return."
+    },
+    {
+      "id": 49,
+      "startSeconds": 188.674,
+      "endSeconds": 192.972,
+      "startFrame30fps": 5660,
+      "endFrame30fps": 5789,
+      "text": "If you receive a massive five thousand dollar refund every spring, that is"
+    },
+    {
+      "id": 50,
+      "startSeconds": 192.972,
+      "endSeconds": 194.706,
+      "startFrame30fps": 5789,
+      "endFrame30fps": 5841,
+      "text": "not free money from the government."
+    },
+    {
+      "id": 51,
+      "startSeconds": 194.978,
+      "endSeconds": 198.96,
+      "startFrame30fps": 5849,
+      "endFrame30fps": 5969,
+      "text": "That is an interest-free loan you accidentally gave the IRS."
+    },
+    {
+      "id": 52,
+      "startSeconds": 199.477,
+      "endSeconds": 203.531,
+      "startFrame30fps": 5984,
+      "endFrame30fps": 6106,
+      "text": "Dialing in your W-4 keeps that cash in your wallet every month."
+    },
+    {
+      "id": 53,
+      "startSeconds": 204.408,
+      "endSeconds": 208.387,
+      "startFrame30fps": 6132,
+      "endFrame30fps": 6252,
+      "text": "Line item number two: FICA taxes, subtracting two hundred and"
+    },
+    {
+      "id": 54,
+      "startSeconds": 208.387,
+      "endSeconds": 210.238,
+      "startFrame30fps": 6252,
+      "endFrame30fps": 6307,
+      "text": "twenty-nine dollars and fifty cents."
+    },
+    {
+      "id": 55,
+      "startSeconds": 210.779,
+      "endSeconds": 215.288,
+      "startFrame30fps": 6323,
+      "endFrame30fps": 6459,
+      "text": "FICA is fixed at seven point six five percent, six point two percent"
+    },
+    {
+      "id": 56,
+      "startSeconds": 215.299,
+      "endSeconds": 219.137,
+      "startFrame30fps": 6459,
+      "endFrame30fps": 6574,
+      "text": "for Social Security and one point four five percent for Medicare."
+    },
+    {
+      "id": 57,
+      "startSeconds": 219.97,
+      "endSeconds": 222.565,
+      "startFrame30fps": 6599,
+      "endFrame30fps": 6677,
+      "text": "This is not standard general tax revenue."
+    },
+    {
+      "id": 58,
+      "startSeconds": 222.985,
+      "endSeconds": 227.025,
+      "startFrame30fps": 6690,
+      "endFrame30fps": 6811,
+      "text": "FICA contributions earn lifetime work credits that determine your monthly"
+    },
+    {
+      "id": 59,
+      "startSeconds": 227.026,
+      "endSeconds": 231.325,
+      "startFrame30fps": 6811,
+      "endFrame30fps": 6940,
+      "text": "retirement pension and qualify you for Medicare health coverage later in life."
+    },
+    {
+      "id": 60,
+      "startSeconds": 231.973,
+      "endSeconds": 234.542,
+      "startFrame30fps": 6959,
+      "endFrame30fps": 7036,
+      "text": "This is not standard general tax revenue."
+    },
+    {
+      "id": 61,
+      "startSeconds": 234.958,
+      "endSeconds": 238.998,
+      "startFrame30fps": 7049,
+      "endFrame30fps": 7170,
+      "text": "FICA contributions earn lifetime work credits that determine your monthly"
+    },
+    {
+      "id": 62,
+      "startSeconds": 238.999,
+      "endSeconds": 243.285,
+      "startFrame30fps": 7170,
+      "endFrame30fps": 7299,
+      "text": "retirement pension and qualify you for Medicare health coverage later in life."
+    },
+    {
+      "id": 63,
+      "startSeconds": 243.942,
+      "endSeconds": 249.199,
+      "startFrame30fps": 7318,
+      "endFrame30fps": 7476,
+      "text": "Line item number three: state and local income tax, deducting ninety dollars."
+    },
+    {
+      "id": 64,
+      "startSeconds": 249.611,
+      "endSeconds": 254.677,
+      "startFrame30fps": 7488,
+      "endFrame30fps": 7640,
+      "text": "Depending on whether you live in Texas, California, or New York, this"
+    },
+    {
+      "id": 65,
+      "startSeconds": 254.678,
+      "endSeconds": 259.082,
+      "startFrame30fps": 7640,
+      "endFrame30fps": 7772,
+      "text": "line item can range from zero dollars to hundreds of dollars per check."
+    },
+    {
+      "id": 66,
+      "startSeconds": 259.692,
+      "endSeconds": 262.118,
+      "startFrame30fps": 7791,
+      "endFrame30fps": 7864,
+      "text": "Let's pause and sum up the taxes."
+    },
+    {
+      "id": 67,
+      "startSeconds": 262.606,
+      "endSeconds": 265.537,
+      "startFrame30fps": 7878,
+      "endFrame30fps": 7966,
+      "text": "Two hundred and eighty dollars federal, two hundred and thirty"
+    },
+    {
+      "id": 68,
+      "startSeconds": 265.537,
+      "endSeconds": 268.242,
+      "startFrame30fps": 7966,
+      "endFrame30fps": 8047,
+      "text": "dollars FICA, and ninety dollars state."
+    },
+    {
+      "id": 69,
+      "startSeconds": 268.752,
+      "endSeconds": 273.937,
+      "startFrame30fps": 8063,
+      "endFrame30fps": 8218,
+      "text": "Total statutory taxes equal exactly six hundred dollars, representing a"
+    },
+    {
+      "id": 70,
+      "startSeconds": 273.959,
+      "endSeconds": 275.855,
+      "startFrame30fps": 8219,
+      "endFrame30fps": 8276,
+      "text": "twenty percent effective tax rate."
+    },
+    {
+      "id": 71,
+      "startSeconds": 276.545,
+      "endSeconds": 280.937,
+      "startFrame30fps": 8296,
+      "endFrame30fps": 8428,
+      "text": "Now look at line item number four: health insurance premium,"
+    },
+    {
+      "id": 72,
+      "startSeconds": 281.256,
+      "endSeconds": 282.881,
+      "startFrame30fps": 8438,
+      "endFrame30fps": 8486,
+      "text": "subtracting eighty dollars."
+    },
+    {
+      "id": 73,
+      "startSeconds": 283.252,
+      "endSeconds": 285.229,
+      "startFrame30fps": 8498,
+      "endFrame30fps": 8557,
+      "text": "This is not a tax."
+    },
+    {
+      "id": 74,
+      "startSeconds": 285.679,
+      "endSeconds": 290.328,
+      "startFrame30fps": 8570,
+      "endFrame30fps": 8710,
+      "text": "This is a pre-tax benefit that pays for active medical and prescription"
+    },
+    {
+      "id": 75,
+      "startSeconds": 290.335,
+      "endSeconds": 292.776,
+      "startFrame30fps": 8710,
+      "endFrame30fps": 8783,
+      "text": "drug coverage for you and your family."
+    },
+    {
+      "id": 76,
+      "startSeconds": 293.327,
+      "endSeconds": 296.63,
+      "startFrame30fps": 8800,
+      "endFrame30fps": 8899,
+      "text": "Because this eighty dollars is deducted before taxes are"
+    },
+    {
+      "id": 77,
+      "startSeconds": 296.632,
+      "endSeconds": 299.286,
+      "startFrame30fps": 8899,
+      "endFrame30fps": 8979,
+      "text": "calculated, it shields your income."
+    },
+    {
+      "id": 78,
+      "startSeconds": 299.621,
+      "endSeconds": 303.794,
+      "startFrame30fps": 8989,
+      "endFrame30fps": 9114,
+      "text": "It lowers your taxable baseline, meaning you pay less federal and"
+    },
+    {
+      "id": 79,
+      "startSeconds": 303.797,
+      "endSeconds": 305.744,
+      "startFrame30fps": 9114,
+      "endFrame30fps": 9172,
+      "text": "state income tax as a result."
+    },
+    {
+      "id": 80,
+      "startSeconds": 306.335,
+      "endSeconds": 312.388,
+      "startFrame30fps": 9190,
+      "endFrame30fps": 9372,
+      "text": "Line item number five: 401retirement contribution, subtracting one"
+    },
+    {
+      "id": 81,
+      "startSeconds": 312.388,
+      "endSeconds": 313.693,
+      "startFrame30fps": 9372,
+      "endFrame30fps": 9411,
+      "text": "hundred and twenty dollars."
+    },
+    {
+      "id": 82,
+      "startSeconds": 314.251,
+      "endSeconds": 318.443,
+      "startFrame30fps": 9428,
+      "endFrame30fps": 9553,
+      "text": "This is four percent of your salary routed straight past the government"
+    },
+    {
+      "id": 83,
+      "startSeconds": 318.601,
+      "endSeconds": 322.424,
+      "startFrame30fps": 9558,
+      "endFrame30fps": 9673,
+      "text": "and deposited directly into your personal investment portfolio."
+    },
+    {
+      "id": 84,
+      "startSeconds": 323.013,
+      "endSeconds": 328.14,
+      "startFrame30fps": 9690,
+      "endFrame30fps": 9844,
+      "text": "Even better, many employers match this contribution dollar for dollar."
+    },
+    {
+      "id": 85,
+      "startSeconds": 328.616,
+      "endSeconds": 332.212,
+      "startFrame30fps": 9858,
+      "endFrame30fps": 9966,
+      "text": "By allocating this one hundred and twenty dollars, your employer often"
+    },
+    {
+      "id": 86,
+      "startSeconds": 332.212,
+      "endSeconds": 337.365,
+      "startFrame30fps": 9966,
+      "endFrame30fps": 10121,
+      "text": "deposits another one hundred and twenty dollars for free, an immediate one"
+    },
+    {
+      "id": 87,
+      "startSeconds": 337.365,
+      "endSeconds": 339.344,
+      "startFrame30fps": 10121,
+      "endFrame30fps": 10180,
+      "text": "hundred percent return on investment."
+    },
+    {
+      "id": 88,
+      "startSeconds": 340.044,
+      "endSeconds": 342.446,
+      "startFrame30fps": 10201,
+      "endFrame30fps": 10273,
+      "text": "Now rebuild the entire calculation."
+    },
+    {
+      "id": 89,
+      "startSeconds": 342.929,
+      "endSeconds": 348.44,
+      "startFrame30fps": 10288,
+      "endFrame30fps": 10453,
+      "text": "Three thousand dollars gross pay minus six hundred dollars in taxes minus two"
+    },
+    {
+      "id": 90,
+      "startSeconds": 348.44,
+      "endSeconds": 352.752,
+      "startFrame30fps": 10453,
+      "endFrame30fps": 10583,
+      "text": "hundred dollars in personal benefits and wealth creation equals exactly"
+    },
+    {
+      "id": 91,
+      "startSeconds": 352.776,
+      "endSeconds": 355.26,
+      "startFrame30fps": 10583,
+      "endFrame30fps": 10658,
+      "text": "twenty-two hundred dollars in net pay."
+    },
+    {
+      "id": 92,
+      "startSeconds": 356.051,
+      "endSeconds": 359.188,
+      "startFrame30fps": 10682,
+      "endFrame30fps": 10776,
+      "text": "On your next payday, don't just look at the bottom line."
+    },
+    {
+      "id": 93,
+      "startSeconds": 359.598,
+      "endSeconds": 363.838,
+      "startFrame30fps": 10788,
+      "endFrame30fps": 10915,
+      "text": "Audit your gross hours, verify your federal withholding elections,"
+    },
+    {
+      "id": 94,
+      "startSeconds": 364.16,
+      "endSeconds": 368.676,
+      "startFrame30fps": 10925,
+      "endFrame30fps": 11060,
+      "text": "check your 401match, and take complete control of your paycheck"
+    }
+  ],
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Opening hook \u2014 $3,000 gross vs $2,200 deposited",
+      "startSeconds": 0.0,
+      "endSeconds": 17.402,
+      "durationSeconds": 17.402,
+      "startFrame30fps": 0,
+      "endFrame30fps": 522,
+      "durationFrames30fps": 522
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Why the $800 gap feels unfair",
+      "startSeconds": 17.402,
+      "endSeconds": 29.467,
+      "durationSeconds": 12.065,
+      "startFrame30fps": 522,
+      "endFrame30fps": 884,
+      "durationFrames30fps": 362
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Audit the $800 line by line",
+      "startSeconds": 29.467,
+      "endSeconds": 44.772,
+      "durationSeconds": 15.305,
+      "startFrame30fps": 884,
+      "endFrame30fps": 1343,
+      "durationFrames30fps": 459
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Same salary, different take-home pay",
+      "startSeconds": 44.772,
+      "endSeconds": 59.741,
+      "durationSeconds": 14.969,
+      "startFrame30fps": 1343,
+      "endFrame30fps": 1792,
+      "durationFrames30fps": 449
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Three workers comparison",
+      "startSeconds": 59.741,
+      "endSeconds": 79.708,
+      "durationSeconds": 19.967,
+      "startFrame30fps": 1792,
+      "endFrame30fps": 2391,
+      "durationFrames30fps": 599
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Paycheck is not a flat subscription fee",
+      "startSeconds": 79.708,
+      "endSeconds": 91.694,
+      "durationSeconds": 11.986,
+      "startFrame30fps": 2391,
+      "endFrame30fps": 2751,
+      "durationFrames30fps": 360
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Gross pay",
+      "startSeconds": 91.694,
+      "endSeconds": 104.614,
+      "durationSeconds": 12.92,
+      "startFrame30fps": 2751,
+      "endFrame30fps": 3138,
+      "durationFrames30fps": 387
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Deductions: taxes vs wealth",
+      "startSeconds": 104.614,
+      "endSeconds": 118.035,
+      "durationSeconds": 13.421,
+      "startFrame30fps": 3138,
+      "endFrame30fps": 3541,
+      "durationFrames30fps": 403
+    },
+    {
+      "sceneNumber": 9,
+      "title": "Two buckets: taxes and pre-tax benefits",
+      "startSeconds": 118.035,
+      "endSeconds": 132.956,
+      "durationSeconds": 14.921,
+      "startFrame30fps": 3541,
+      "endFrame30fps": 3989,
+      "durationFrames30fps": 448
+    },
+    {
+      "sceneNumber": 10,
+      "title": "Federal income tax withholding",
+      "startSeconds": 132.956,
+      "endSeconds": 148.938,
+      "durationSeconds": 15.982,
+      "startFrame30fps": 3989,
+      "endFrame30fps": 4468,
+      "durationFrames30fps": 479
+    },
+    {
+      "sceneNumber": 11,
+      "title": "Employer does not know final tax rate",
+      "startSeconds": 148.938,
+      "endSeconds": 162.358,
+      "durationSeconds": 13.42,
+      "startFrame30fps": 4468,
+      "endFrame30fps": 4871,
+      "durationFrames30fps": 403
+    },
+    {
+      "sceneNumber": 12,
+      "title": "IRS Form W-4",
+      "startSeconds": 162.358,
+      "endSeconds": 176.298,
+      "durationSeconds": 13.94,
+      "startFrame30fps": 4871,
+      "endFrame30fps": 5289,
+      "durationFrames30fps": 418
+    },
+    {
+      "sceneNumber": 13,
+      "title": "Federal withholding as an escrow account",
+      "startSeconds": 176.298,
+      "endSeconds": 188.674,
+      "durationSeconds": 12.376,
+      "startFrame30fps": 5289,
+      "endFrame30fps": 5660,
+      "durationFrames30fps": 371
+    },
+    {
+      "sceneNumber": 14,
+      "title": "Large tax refunds are not free money",
+      "startSeconds": 188.674,
+      "endSeconds": 204.408,
+      "durationSeconds": 15.734,
+      "startFrame30fps": 5660,
+      "endFrame30fps": 6132,
+      "durationFrames30fps": 472
+    },
+    {
+      "sceneNumber": 15,
+      "title": "FICA taxes",
+      "startSeconds": 204.408,
+      "endSeconds": 219.97,
+      "durationSeconds": 15.562,
+      "startFrame30fps": 6132,
+      "endFrame30fps": 6599,
+      "durationFrames30fps": 467
+    },
+    {
+      "sceneNumber": 16,
+      "title": "FICA supports Social Security and Medicare",
+      "startSeconds": 219.97,
+      "endSeconds": 243.942,
+      "durationSeconds": 23.972,
+      "startFrame30fps": 6599,
+      "endFrame30fps": 7318,
+      "durationFrames30fps": 719
+    },
+    {
+      "sceneNumber": 17,
+      "title": "State and local income tax",
+      "startSeconds": 243.942,
+      "endSeconds": 259.692,
+      "durationSeconds": 15.75,
+      "startFrame30fps": 7318,
+      "endFrame30fps": 7791,
+      "durationFrames30fps": 473
+    },
+    {
+      "sceneNumber": 18,
+      "title": "Sum up statutory taxes",
+      "startSeconds": 259.692,
+      "endSeconds": 276.545,
+      "durationSeconds": 16.853,
+      "startFrame30fps": 7791,
+      "endFrame30fps": 8296,
+      "durationFrames30fps": 505
+    },
+    {
+      "sceneNumber": 19,
+      "title": "Health insurance premium",
+      "startSeconds": 276.545,
+      "endSeconds": 293.327,
+      "durationSeconds": 16.782,
+      "startFrame30fps": 8296,
+      "endFrame30fps": 8800,
+      "durationFrames30fps": 504
+    },
+    {
+      "sceneNumber": 20,
+      "title": "Pre-tax benefits lower taxable income",
+      "startSeconds": 293.327,
+      "endSeconds": 306.335,
+      "durationSeconds": 13.008,
+      "startFrame30fps": 8800,
+      "endFrame30fps": 9190,
+      "durationFrames30fps": 390
+    },
+    {
+      "sceneNumber": 21,
+      "title": "401(k) retirement contribution",
+      "startSeconds": 306.335,
+      "endSeconds": 323.013,
+      "durationSeconds": 16.678,
+      "startFrame30fps": 9190,
+      "endFrame30fps": 9690,
+      "durationFrames30fps": 500
+    },
+    {
+      "sceneNumber": 22,
+      "title": "Employer match",
+      "startSeconds": 323.013,
+      "endSeconds": 340.044,
+      "durationSeconds": 17.031,
+      "startFrame30fps": 9690,
+      "endFrame30fps": 10201,
+      "durationFrames30fps": 511
+    },
+    {
+      "sceneNumber": 23,
+      "title": "Rebuild the take-home-pay calculation",
+      "startSeconds": 340.044,
+      "endSeconds": 356.051,
+      "durationSeconds": 16.007,
+      "startFrame30fps": 10201,
+      "endFrame30fps": 10682,
+      "durationFrames30fps": 481
+    },
+    {
+      "sceneNumber": 24,
+      "title": "Final payday checklist and call to action",
+      "startSeconds": 356.051,
+      "endSeconds": 368.96,
+      "durationSeconds": 12.909,
+      "startFrame30fps": 10682,
+      "endFrame30fps": 11069,
+      "durationFrames30fps": 387
+    }
+  ],
+  "suggestedVisualBeats": [
+    {
+      "timeSeconds": 0.28,
+      "type": "hook-reveal",
+      "triggerText": "You work hard for two weeks",
+      "visual": "Start on close crop; slow push-in"
+    },
+    {
+      "timeSeconds": 7.59,
+      "type": "money-impact",
+      "triggerText": "$2,200 actually arrived",
+      "visual": "Snap zoom to deposited amount; contrasting red/emerald ledger"
+    },
+    {
+      "timeSeconds": 13.543,
+      "type": "question-punch",
+      "triggerText": "$800 gap",
+      "visual": "Brief shake + bold $800 question card"
+    },
+    {
+      "timeSeconds": 29.467,
+      "type": "audit-start",
+      "triggerText": "under the microscope",
+      "visual": "Transition to pay-stub audit layout"
+    },
+    {
+      "timeSeconds": 44.772,
+      "type": "comparison",
+      "triggerText": "first critical truth",
+      "visual": "Split-screen comparison"
+    },
+    {
+      "timeSeconds": 59.741,
+      "type": "three-way-comparison",
+      "triggerText": "Take three workers",
+      "visual": "Three columns; animate take-home values"
+    },
+    {
+      "timeSeconds": 91.694,
+      "type": "term-reveal",
+      "triggerText": "gross pay",
+      "visual": "Highlight Gross Pay row on pay stub"
+    },
+    {
+      "timeSeconds": 118.035,
+      "type": "two-buckets",
+      "triggerText": "two distinct buckets",
+      "visual": "Split taxes vs benefits"
+    },
+    {
+      "timeSeconds": 132.956,
+      "type": "ledger-entry",
+      "triggerText": "Federal income tax withholding",
+      "visual": "Deduction line item enters the ledger"
+    },
+    {
+      "timeSeconds": 162.358,
+      "type": "document-reveal",
+      "triggerText": "IRS Form W-4",
+      "visual": "W-4 paperwork push-in"
+    },
+    {
+      "timeSeconds": 188.674,
+      "type": "myth-bust",
+      "triggerText": "not free money",
+      "visual": "Refund stamp flips to interest-free loan"
+    },
+    {
+      "timeSeconds": 204.408,
+      "type": "ledger-entry",
+      "triggerText": "FICA taxes",
+      "visual": "Split Social Security and Medicare"
+    },
+    {
+      "timeSeconds": 219.97,
+      "type": "explainer",
+      "triggerText": "not standard general tax revenue",
+      "visual": "Hold on FICA explainer; preserve duplicated passage unless trimmed"
+    },
+    {
+      "timeSeconds": 243.942,
+      "type": "ledger-entry",
+      "triggerText": "state and local income tax",
+      "visual": "State-tax range map/row"
+    },
+    {
+      "timeSeconds": 259.692,
+      "type": "sum-up",
+      "triggerText": "sum up the taxes",
+      "visual": "Stack deductions and count to $600"
+    },
+    {
+      "timeSeconds": 276.545,
+      "type": "benefit-vs-tax",
+      "triggerText": "health insurance premium",
+      "visual": "Benefits ledger with $80 row"
+    },
+    {
+      "timeSeconds": 306.335,
+      "type": "wealth-building",
+      "triggerText": "401(k) retirement contribution",
+      "visual": "Contribution routes into investment portfolio"
+    },
+    {
+      "timeSeconds": 323.013,
+      "type": "match-reveal",
+      "triggerText": "employers match",
+      "visual": "Animate $120 \u2192 $240 with match contribution"
+    },
+    {
+      "timeSeconds": 340.044,
+      "type": "math-payoff",
+      "triggerText": "rebuild the entire calculation",
+      "visual": "Gross \u2192 taxes \u2192 benefits \u2192 $2,200 net"
+    },
+    {
+      "timeSeconds": 356.051,
+      "type": "cta",
+      "triggerText": "On your next payday",
+      "visual": "Checklist animation and final camera settle"
+    }
+  ]
+}
